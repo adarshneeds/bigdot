@@ -1,11 +1,15 @@
-# BigDot Circular Wheel Animation
+# BigDot Circular Wheel
 
-This project contains the circular wheel animation feature created for the BigDot app.
+A sophisticated circular wheel animation component designed for seamless integration into the BigDot application.
 
-## Purpose
+## Overview
 
-This repository contains the implementation of the circular wheel animation component that will be integrated into the  BigDot application.
+This repository houses a professionally developed circular wheel animation feature that enhances user interaction within the BigDot ecosystem. The component is built with performance optimization and visual appeal in mind.
 
-## Note
+## Project Scope
 
-This is the circular wheel animation component developed for BigDot.
+The implementation provides a reusable, scalable animation component that adheres to modern development standards and integrates efficiently with the broader BigDot application architecture.
+
+## Technical Details
+
+This component has been engineered to deliver smooth, responsive animations while maintaining optimal performance across various devices and platforms.
